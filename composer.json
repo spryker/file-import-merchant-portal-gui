@@ -55,5 +55,6 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
-    }
+    },
+    "abandoned": "spryker/data-import-merchant-portal-gui"
 }

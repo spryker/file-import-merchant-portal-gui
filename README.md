@@ -11,6 +11,9 @@ This module provides the functionality to import bulk data in the Merchant Porta
 >
 > ❗ **Do not use in production unless you're prepared to handle frequent changes.**
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/data-import-merchant-portal-gui](https://github.com/spryker/data-import-merchant-portal-gui) instead.
+
 ## Installation
 
 ```
